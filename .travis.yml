@@ -4,7 +4,7 @@ sudo: false
 os:
   - linux
   - osx
-  - windows
+
 smalltalk:
   - Pharo-6.1
   - Pharo64-6.1
